@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Hero from "./components/sections/Hero";
 import AboutDoctor from "./components/sections/AboutDoctor";
+import Services from "./components/sections/Services";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <main>
         <Hero />
         <AboutDoctor />
+        <Services />
       </main>
 
       <Footer />
