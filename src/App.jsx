@@ -4,6 +4,8 @@ import Hero from "./components/sections/Hero";
 import AboutDoctor from "./components/sections/AboutDoctor";
 import Services from "./components/sections/Services";
 import WhyChooseUs from "./components/sections/WhyChooseUs";
+import HowItWorks from "./components/sections/HowItWorks";
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
         <AboutDoctor />
         <Services />
         <WhyChooseUs />
+        <HowItWorks />
       </main>
 
       <Footer />
