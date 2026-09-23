@@ -5,6 +5,7 @@ import AboutDoctor from "./components/sections/AboutDoctor";
 import Services from "./components/sections/Services";
 import WhyChooseUs from "./components/sections/WhyChooseUs";
 import HowItWorks from "./components/sections/HowItWorks";
+import FAQ from "./components/sections/FAQ";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Services />
         <WhyChooseUs />
         <HowItWorks />
+        <FAQ />
       </main>
 
       <Footer />

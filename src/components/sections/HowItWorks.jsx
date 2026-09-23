@@ -124,7 +124,7 @@ function HowItWorks() {
 
                 <p className="mt-3 text-sm leading-6 text-blue-100 sm:text-base">
                   Choose a suitable time and book your visit online. If you need
-                  help, you can also contact the clinic directly.
+                  help, you can also contact the clinic directly. Walk-ins are welcome, but we recommend booking in advance to ensure availability.
                 </p>
               </div>
 

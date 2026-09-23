@@ -161,7 +161,7 @@ const Footer = () => {
               </div>
 
               <a
-                href="#contact"
+                href="https://wa.me/27813617889"
                 className="flex items-center gap-2 text-sm font-semibold text-emerald-400 transition-colors hover:text-emerald-300"
               >
                 <MessageCircle size={18} />
