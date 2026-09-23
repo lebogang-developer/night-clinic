@@ -149,7 +149,7 @@ function HowItWorks() {
               <div className="grid gap-3 sm:grid-cols-3">
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/YOUR_WHATSAPP_NUMBER"
+                  href="https://wa.me/27813617889"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center gap-3 rounded-2xl border border-white/10 bg-white/10 px-4 py-3 transition-all duration-300 hover:-translate-y-1 hover:bg-white/15"
@@ -187,7 +187,7 @@ function HowItWorks() {
 
                 {/* Cell */}
                 <a
-                  href="tel:YOUR_PHONE_NUMBER"
+                  href="tel:+27813617889"
                   className="group flex items-center gap-3 rounded-2xl border border-white/10 bg-white/10 px-4 py-3 transition-all duration-300 hover:-translate-y-1 hover:bg-white/15"
                 >
                   <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-[#0B1F33]">
