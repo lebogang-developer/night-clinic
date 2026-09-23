@@ -3,6 +3,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/sections/Hero";
 import AboutDoctor from "./components/sections/AboutDoctor";
 import Services from "./components/sections/Services";
+import WhyChooseUs from "./components/sections/WhyChooseUs";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Hero />
         <AboutDoctor />
         <Services />
+        <WhyChooseUs />
       </main>
 
       <Footer />
