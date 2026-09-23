@@ -119,8 +119,8 @@ const AboutDoctor = () => {
                 <h4 className="mt-4 font-semibold text-[#0B1F33]">Education</h4>
 
                 <p className="mt-2 text-sm leading-6 text-slate-500">
-                  Medical qualifications and educational background to be
-                  confirmed and added.
+                  Medical training completed in Cuba and at Sefako Makgatho
+                  Health Sciences University (SMU), completed in 2019.
                 </p>
               </div>
 
@@ -135,8 +135,10 @@ const AboutDoctor = () => {
                 </h4>
 
                 <p className="mt-2 text-sm leading-6 text-slate-500">
-                  Professional experience and areas of practice to be confirmed
-                  and added.
+                  Internship at Boitumelong Hospital in Kroonstad from
+                  2020–2021. Completed community service at Dr JS Moroka
+                  Hospital and has served as a permanent Medical Officer from
+                  2023 to date.
                 </p>
               </div>
             </div>
