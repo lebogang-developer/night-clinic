@@ -6,7 +6,7 @@ import Services from "./components/sections/Services";
 import WhyChooseUs from "./components/sections/WhyChooseUs";
 import HowItWorks from "./components/sections/HowItWorks";
 import FAQ from "./components/sections/FAQ";
-
+import Contact from "./components/sections/Contact";
 
 function App() {
   return (
@@ -20,6 +20,7 @@ function App() {
         <WhyChooseUs />
         <HowItWorks />
         <FAQ />
+        <Contact />
       </main>
 
       <Footer />

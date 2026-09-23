@@ -144,7 +144,10 @@ const Footer = () => {
                 className="flex items-start gap-3 text-sm text-slate-300 transition-colors hover:text-white"
               >
                 <MapPin size={18} className="mt-0.5 shrink-0" />
-                <span>Suite 3085, Pharmacy at SPAR Kingsway, THABA NCHU 9780</span>
+                <span>
+                  Pharmacy at SPAR Kingsway Suite 3085, Selosesha, Thaba Nchu,
+                  9780
+                </span>
               </a>
 
               <div className="flex items-start gap-3 text-sm text-slate-300">
