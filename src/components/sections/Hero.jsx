@@ -110,7 +110,7 @@ const Hero = () => {
             <div className="hidden border-l border-white/15 sm:block" />
 
             {/* Item 2 */}
-            <div className="flex items-center gap-3 sm:px-5">
+            <div className="flex items-center gap-3 sm:pl-5">
               <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/10 text-blue-200">
                 <ShieldCheck size={21} />
               </div>
@@ -126,7 +126,7 @@ const Hero = () => {
             <div className="hidden border-l border-white/15 sm:block" />
 
             {/* Item 3 */}
-            <div className="flex items-center gap-3 sm:pl-5">
+            <div className="flex items-center gap-3 sm:px-5">
               <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-white/10 bg-white/10 text-blue-200">
                 <HeartPulse size={21} />
               </div>
